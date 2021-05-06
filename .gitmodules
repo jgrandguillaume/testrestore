@@ -42,3 +42,8 @@
 	path = camptocamp/wms-workload
 	url = git@github.com:camptocamp/wms-workload.git
 	branch = 13.0
+
+[submodule "OCA/ddmrp"]
+	path = OCA/ddmrp
+	url = git@github.com:OCA/ddmrp.git
+	branch = 13.0

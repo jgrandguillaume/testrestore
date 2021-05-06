@@ -37,3 +37,8 @@
 	path = OCA/partner-contact
 	url = git@github.com:OCA/partner-contact.git
 	branch = 13.0
+
+[submodule "camptocamp/wms-workload"]
+	path = camptocamp/wms-workload
+	url = git@github.com:camptocamp/wms-workload.git
+	branch = 13.0

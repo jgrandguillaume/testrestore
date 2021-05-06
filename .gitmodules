@@ -78,7 +78,3 @@
 	url = git@github.com:OCA/server-env.git
 	branch = 13.0
 
-[submodule "OCA/web"]
-	path = OCA/web
-	url = https://github.com/camptocamp/web
-	branch = 13.0-no-requirements

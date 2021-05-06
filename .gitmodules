@@ -12,3 +12,8 @@
 	path = OCA/wms
 	url = git@github.com:OCA/wms.git
 	branch = 13.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 13.0

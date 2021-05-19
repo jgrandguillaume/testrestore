@@ -92,3 +92,8 @@
 	path = OCA/queue
 	url = git@github.com:OCA/queue.git
 	branch = 13.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 13.0
